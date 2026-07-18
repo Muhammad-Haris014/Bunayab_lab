@@ -20,9 +20,8 @@ const dmSans = DM_Sans({
 const CONTACT_EMAIL = "bunyadlab@gmail.com";
 const PHONE_DISPLAY = "0328 6679186";
 const PHONE_TEL = "+923286679186";
-const INSTAGRAM_URL =
-  "https://www.instagram.com/bunyad_labs?igsh=ZnNycDdrMno3cnY4";
-const INSTAGRAM_HANDLE = "@bunyad_labs";
+const INSTAGRAM_URL = "https://www.instagram.com/bunyad_lab";
+const INSTAGRAM_HANDLE = "@bunyad_lab";
 
 // lucide dropped brand icons; drawn to match its 24px / stroke-2 style
 const InstagramIcon = ({ className }: { className?: string }) => (
